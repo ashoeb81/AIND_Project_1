@@ -1,2 +1,2 @@
-# AIND_Project_1
-Solution to AIND Project 1
+# AIND Project 1
+Please see the file Sudoku_AI_Solution.pdf for project discussion.
